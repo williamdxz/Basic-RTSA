@@ -15,6 +15,7 @@ Agora RTSA Quickstart
 // src/wrapper/utils.h
 #define API_CALL_APPID "use your own app id" // Replace with your own appId
 ```
+You can obtain your appID through signing up on Agora website. After you create a project, you can view and access your appID. 
 
 ## Compile Quickstart
 
